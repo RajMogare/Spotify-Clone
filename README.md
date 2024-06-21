@@ -37,5 +37,8 @@ npm install
 npm run dev
 ```
 
+## To See Website
+click on https://spotify-clone-murex-psi.vercel.app/
+
 
 
